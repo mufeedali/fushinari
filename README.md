@@ -6,8 +6,8 @@ I'm a Linux lover. I have two Arch installations, one with Plasma and the other 
 
 Happy stuff aside, my education and my future as a whole is currently at risk. So, if you'd like to help me out, consider donating. It would be much appreciated and would help me out a lot.
 
-Ko-Fi: https://ko-fi.com/mufeedali
-Patreon: https://www.patreon.com/fushinari
+Ko-Fi: https://ko-fi.com/mufeedali  
+Patreon: https://www.patreon.com/fushinari  
 PayPal: https://paypal.me/mufeedali  
 BTC: `bc1qrcl9jlhsm2mrjguqpmvj3rrjefju06enzz3e74`  
 UPI ID: `mufeed.666.53@okaxis`
