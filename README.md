@@ -10,7 +10,10 @@ Happy stuff aside, my education and my future as a whole is currently at risk. S
 
 Patreon: <a href="https://www.patreon.com/bePatron?u=49889017">Become a Patron!</a>  
 PayPal: https://paypal.me/mufeedali  
-BTC: `bc1qrcl9jlhsm2mrjguqpmvj3rrjefju06enzz3e74`  
+
+BTC: `bc1qayxs0vk7r5y75yxsv2k9hje66tplpnkzp7sez3`  
+ETH: `0x99609E3F49305eD1f4eD5B6CcDC64810dFac346F`  
+
 UPI ID: `mufeed.666.53@okaxis`
 
 You can reach me via:
