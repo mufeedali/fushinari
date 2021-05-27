@@ -6,7 +6,7 @@ I'm a Linux lover. I have two Arch installations, one with Plasma and the other 
 
 If you'd like to help me out, please consider donating. It would be much appreciated and would help me out a lot.
 
-<a href="https://liberapay.com/fushinari/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>    <a href='https://ko-fi.com/D1D52WLAY' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>  
+<a href="https://liberapay.com/fushinari/donate"><img src="https://img.shields.io/liberapay/receives/fushinari.svg?logo=liberapay"></a>    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D52WLAY)
 
 Patreon: <a href="https://www.patreon.com/bePatron?u=49889017">Become a Patron!</a>  
 PayPal: https://paypal.me/mufeedali  
