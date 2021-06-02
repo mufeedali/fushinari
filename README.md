@@ -6,13 +6,9 @@ I'm a Linux lover. I have two Arch installations, one with Plasma and the other 
 
 If you'd like to help me out, please consider donating. It would be much appreciated and would help me out a lot.
 
-<a href="https://liberapay.com/fushinari/donate"><img src="https://img.shields.io/liberapay/receives/fushinari.svg?logo=liberapay"></a>    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D52WLAY)
+<a href="https://liberapay.com/fushinari/donate"><img src="https://img.shields.io/liberapay/receives/fushinari.svg?logo=liberapay"></a>
 
-Patreon: <a href="https://www.patreon.com/bePatron?u=49889017">Become a Patron!</a>  
 PayPal: https://paypal.me/mufeedali  
-
-BTC: `bc1qayxs0vk7r5y75yxsv2k9hje66tplpnkzp7sez3`  
-ETH: `0x99609E3F49305eD1f4eD5B6CcDC64810dFac346F`  
 
 UPI ID: `mufeed.666.53@okaxis`
 
